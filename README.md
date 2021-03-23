@@ -1,11 +1,11 @@
 # Better Biomes - FanUpdate
- Updated version of BetterBiomes by Julyary/ParanormalVibe to the last version of the CWSDK (7.1 atm). Will be updated to the next version of the SDK until Julyary come back dont worry!
+ Updated version of BetterBiomes by Julyuary/ParanormalVibe to the last version of the CWSDK (7.1 atm). Will be updated to the next version of the SDK until Julyuary come back dont worry!
  
- Original work by Julyary, link to his github (CWSDK-6.1):
+ Original work by Julyuary, link to his github (CWSDK-6.1):
  https://github.com/ParanormalVibe/BetterBiomes
 
 ## Better Biomes
- A terrain generation mod for CubeWorld.
+ A terrain generation mod for CubeWorld made by Julyuary, absolutely nothing new in this updated version.
  
 ## Better What?
  This mod seeks to make exploring the game's world more interesting by grouping regions into continents and small islands.

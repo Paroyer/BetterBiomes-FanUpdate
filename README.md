@@ -4,6 +4,8 @@
  Original work by Julyuary, link to his github (CWSDK-6.1):
  https://github.com/ParanormalVibe/BetterBiomes
 
+*If ever you use any other mods from Julyuary on Nexus, like weaponXP, BrightNights and BetterProgression, those are actually wrap up of other people .cwmod. Back then there was no native support from the modloader, but now you just have to drop the .cwmod alongside any other mod you using in the /Mods folder. If you need a download link for any of those mods look up in the Posts section of their respective Nexus page I commented all necessary links*
+
 ## Better Biomes
  A terrain generation mod for CubeWorld made by Julyuary, absolutely nothing new in this updated version.
  

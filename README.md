@@ -17,11 +17,13 @@ _______________________________________________________________________
 ![Before](https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/Before.PNG)
 ## After
 ![After](https://raw.githubusercontent.com/ParanormalVibe/BetterBiomes/master/After.PNG)
+
 ## Installation
 * If you do not have it already, download the latest [CubeModLoader.fip file here](https://github.com/ChrisMiuchiz/Cube-World-Mod-Launcher/releases).
 * Place the CubeModLoader.fip file in the same folder as your cubeworld.exe.
 * Download BetterBiomes.dll from the [releases page](https://github.com/paroyer/BetterBiomes-FanUpdate/releases).
 * Place BetterBiomes.dll inside of your `\Cube World\Mods` folder. Create the folder if you do not already have one.
+
 ## Multiplayer Compatibility
  This mod has not been tested for multiplayer compatibility.
 *Actually this mod works in multiplayer absolutely no problem as long as everyone have it, or you're just going to see your bud wayyy up in the air*

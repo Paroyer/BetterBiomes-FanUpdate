@@ -27,7 +27,7 @@ _______________________________________________________________________
 ## Multiplayer Compatibility
 
 This mod has not been tested for multiplayer compatibility.
- __________________________________________________________________
+
 *Actually this mod works in multiplayer absolutely no problem as long as everyone have it, or you're just going to see your bud wayyy up in the air*
 
 Special thanks to [ChrisMiuchiz](https://github.com/ChrisMiuchiz) for the mod loader and helping to make this mod possible.
